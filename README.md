@@ -1,12 +1,12 @@
 ## Doctrine 2 Extensions for POSTGRESQL
 
-## TO_CHAR
+## to_char
 
 ``` clojure
 (query "SELECT to_char(campo, 'yyyy-mm-dd HH24') AS alias")
 ```
 
-## CAST
+## cast
 
 ``` clojure
 (query "SELECT CAST(campo AS 'float')")
