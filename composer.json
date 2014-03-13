@@ -1,5 +1,5 @@
 {
-    "name": "DoctrineExtensions",
+    "name": "michelsp/DoctrineExtensions",
     "description": "Doctrine Extensions for Postgresql",
     "license": "GPLv3",
     "keywords": [
