@@ -5,7 +5,11 @@
     "keywords": [
         "doctrine",
         "extensions",
-        "postgresql"
+        "postgresql",
+		"functions",
+		"to_char",
+		"cast",
+		"stddev"
     ],
     "homepage": "https://github.com/michelsp/DoctrineExtensions",
     "minimum-stability": "dev",
@@ -13,7 +17,7 @@
         {
             "name": "Michel Soares Pintor", 
             "email": "michel@michelsp.com.br",
-            "homepage": "https://github.com/michelsp/",
+            "homepage": "https://github.com/michelsp/DoctrineExtensions/",
             "role": "Developer"
         }
     ],
