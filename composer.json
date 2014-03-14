@@ -3,9 +3,9 @@
     "description": "Doctrine Extensions for Postgresql",
     "license": "GPLv3",
     "keywords": [
-        "doctrine",
-        "extensions",
-        "postgresql",
+		"doctrine",
+		"extensions",
+		"postgresql",
 		"functions",
 		"to_char",
 		"cast",
@@ -14,7 +14,7 @@
     "homepage": "https://github.com/michelsp/DoctrineExtensions",
     "minimum-stability": "dev",
     "authors": [
-        {
+		{
             "name": "Michel Soares Pintor", 
             "email": "michel@michelsp.com.br",
             "homepage": "https://github.com/michelsp/DoctrineExtensions/",
