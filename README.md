@@ -17,7 +17,7 @@ Função de formatação de data e Hora: [to_char](http://www.postgresql.org/doc
 Função de conversão de tipo: [cast](http://www.postgresql.org/docs/9.3/static/typeconv-func.html).
 
 ``` clojure
-(query "SELECT CAST(campo AS 'float') ...")
+(query "SELECT CAST(campo AS 'float') AS alias ...")
 ```
 
 ## stddev
