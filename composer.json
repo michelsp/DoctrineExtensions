@@ -12,7 +12,6 @@
 		"stddev"
     ],
     "homepage": "https://github.com/michelsp/DoctrineExtensions",
-    "minimum-stability": "dev",
     "authors": [
 		{
             "name": "Michel Soares Pintor", 
