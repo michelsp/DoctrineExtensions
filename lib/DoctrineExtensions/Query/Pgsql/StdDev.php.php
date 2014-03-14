@@ -12,7 +12,7 @@ use Doctrine\ORM\Query\AST\Functions\FunctionNode,
  * 
  * @author Michel Soares Pintor <michel@michelsp.com.br>
  */
-class ToChar extends FunctionNode
+class StdDev extends FunctionNode
 {
     protected $field;
 
