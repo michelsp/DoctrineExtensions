@@ -6,7 +6,7 @@ use Doctrine\ORM\Query\AST\Functions\FunctionNode,
 
 /**
  * 
- * Desvio Padrão
+ * Ltrim
  * 
  * Usage: Ltrim( field )
  * 
